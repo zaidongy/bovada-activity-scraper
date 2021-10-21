@@ -2,3 +2,4 @@
 *.xlsx
 *.html
 *.svg
+.DS_Store
