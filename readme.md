@@ -13,8 +13,8 @@ Bovada Activity Scraper exports your betting history into a CSV file using pytho
 
 
 ## Dependencies
-[Python3](https://www.python.org/downloads/)
-[BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Python3](https://www.python.org/downloads/)
+- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
 ## Running the code
