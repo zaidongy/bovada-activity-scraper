@@ -9,7 +9,7 @@ Bovada Activity Scraper exports your betting history into a CSV file using pytho
 2. Select the date interval (such as 31 days)
 3. Scroll the table to the bottom until there are no more transactions to load (page load dynamically)
 4. Inspect the webpage
-5. In the dev tools, copy the <body> block (right click and copy element) and save it to your working directory
+5. In the dev tools, copy the `<body>` block (right click and copy element) and save it to your working directory
 
 
 ## Dependencies
